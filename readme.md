@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Piyaphat (Fiw)">
-</p>
-
 <h1 align="center">Hi 👋 I'm Piyaphat Jaiboon</h1>
 <p align="center">
   <b>Nickname:</b> Fiw · <b>Age:</b> 14 · <b>Role:</b> High School Student
