@@ -12,8 +12,6 @@
 I’m a curious student who enjoys going deep into how computers actually work — from low‑level programming to large‑scale systems. I like building things that are efficient, measurable, and grounded in real engineering rather than magic abstractions.
 I believe good software is not just about making things work, but understanding *why* they work, I don't like Black Box things.
 
-# In summary, My Teacher and Senior have inspised ME to love engineering  
-
 ---
 
 ## 💻 Programming Languages
@@ -52,11 +50,11 @@ I love Linus Torvald
 ---
 
 ## 📈 Mindset
-- Keep it simple and stupid (From my Teacher)
+- Keep it simple and stupid 
 - Performance matters
 - Curiosity beats memorization
-- Learn the fundamentals first, optimize later (From My senior)
-- Make it Happen first (From My senior)
+- Learn the fundamentals first, optimize later
+- Make it Happen first 
 - Engineering is about trade‑offs, not perfection
 
 ---
