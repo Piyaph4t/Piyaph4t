@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Piyaphat Jaiboon</h1>
 <p align="center">
-  <b>Nickname:</b> Fiw · <b>Age:</b> 14 · <b>Role:</b> High School Student
+  <b>Nickname:</b> Fiw · <b>Age:</b> 15 · <b>Role:</b> High School Student
 </p>
 <p align="center">
   Prommanusorn School · Thailand 🇹🇭
@@ -34,15 +34,9 @@ I love Linus Torvald
 
 ## 🚀 Current Interests & Learning Goals
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/High%20Performance%20Computing-222222?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenMPI-003366?style=for-the-badge&logo=messagebird&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Engineering-444444?style=for-the-badge&logo=semanticscholar&logoColor=white" />
 </p>
@@ -50,7 +44,6 @@ I love Linus Torvald
 ---
 
 ## 📈 Mindset
-- Keep it simple and stupid 
 - Performance matters
 - Curiosity beats memorization
 - Learn the fundamentals first, optimize later
